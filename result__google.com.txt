@@ -1,0 +1,33 @@
+﻿192.168.0.1 TTL: [1]
+10.0.0.1 TTL: [2]
+10.159.12.1 TTL: [3]
+10.220.153.18 TTL: [4]
+209.85.168.182 TTL: [5]
+74.125.242.225 TTL: [6]
+209.85.244.145 TTL: [7] 
+209.85.244.147 TTL: [8] 
+142.251.208.110 TTL: [9]
+ ----------
+---------------------------------------------------- 
+IP route:
+192.168.0.1-->10.0.0.1-->10.159.12.1-->10.220.153.18-->209.85.168.182-->74,125,242,225-->209.85.244.145--->209.85.244.147--->142.251.208.110
+
+IP route(sanitized): 
+INTERNAL IP --> INTERNAL IP ---> INTERNAL IP ----> INTERNAL IP ----> 209.85.168.182--> 74,125,242,225--> 209.85.244.145--> 209.85.244.147---> 142.251.208.110
+
+
+Geographical route: 
+
+Unknown location, internal IP! ----->Unknown location, internal IP! ----->Unknown location, internal IP! ----->
+Unknown location, internal IP! ----->Unknown city, Unknown region, United States -----> 
+Unknown city, Unknown region, United States -----> Unknown city, Unknown region, United States -----> 
+Unknown city, Unknown region, United States -----> Unknown city, Unknown region, United States 
+
+---------------- 
+Top of the most common cities in Traceroute:
+
+
+ ---------------------------------------- 
+Top of the most common countries in traceroutes:
+
+ 1. United States 
